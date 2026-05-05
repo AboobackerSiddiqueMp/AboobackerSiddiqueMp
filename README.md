@@ -12,6 +12,37 @@
 
 ---
 
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/AboobackerSiddiqueMp?tab=repositories&sort=stargazers">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AboobackerSiddiqueMp&repo=REPO_NAME_1&theme=github_dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/AboobackerSiddiqueMp?tab=repositories&sort=stargazers">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AboobackerSiddiqueMp&repo=REPO_NAME_2&theme=github_dark&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AboobackerSiddiqueMp?tab=repositories&sort=stargazers">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AboobackerSiddiqueMp&repo=REPO_NAME_3&theme=github_dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/AboobackerSiddiqueMp?tab=repositories&sort=stargazers">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AboobackerSiddiqueMp&repo=REPO_NAME_4&theme=github_dark&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AboobackerSiddiqueMp?tab=repositories&sort=stargazers">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AboobackerSiddiqueMp&repo=REPO_NAME_5&theme=github_dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/AboobackerSiddiqueMp?tab=repositories&sort=stargazers">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AboobackerSiddiqueMp&repo=REPO_NAME_6&theme=github_dark&hide_border=true" />
+  </a>
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
 Full Stack Developer with **2 years of experience** building scalable, high-performance web applications. I specialize in **Angular**, **React**, and **Node.js**, with deep expertise in microfrontend architecture, SSR, and state management using NgRx/Redux.
