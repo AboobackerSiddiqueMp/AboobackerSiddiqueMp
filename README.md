@@ -5,7 +5,8 @@
 ### Full Stack Developer · Angular · React.js · Node.js · TypeScript
 
 [![Email](https://img.shields.io/badge/Email-aboobackersiddique608@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aboobackersiddique608@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aboobacker-siddique-325090282)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AboobackerSiddiqueMp)
 [![Location](https://img.shields.io/badge/Location-Kochi%2C%20Kerala-34A853?style=flat-square&logo=google-maps&logoColor=white)](https://maps.google.com)
 
 </div>
@@ -14,92 +15,122 @@
 
 ## 👨‍💻 About Me
 
-Full Stack Developer with **2 years of experience** building scalable, high-performance web applications. I specialize in **Angular**, **React**, and **Node.js**, with deep expertise in microfrontend architecture, SSR, and state management using NgRx/Redux.
+Full Stack Developer with **2+ years of experience** building scalable enterprise web applications. Specialized in **Angular**, **React**, and **Next.js**, with hands-on expertise in **Nx Microfrontends**, SSR optimization, and reactive state management (**NgRx / Redux**).
 
-I bridge the gap between clean, performant backends and polished, accessible frontends — delivering production-ready solutions that scale. I actively leverage AI tools to accelerate development, sharpen debugging, and raise code quality.
+---
 
-> *"I don't just write code — I architect solutions that are built to last."*
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 Pixelbooksapp — eBook Platform</h3>
+      <p>Multi-portal digital reading application architected with Nx Microfrontends and robust centralized state management.</p>
+      <ul>
+        <li>Implemented full NgRx state architecture across 3 distinct user portals.</li>
+        <li>SSR-enabled Angular modules with lazy loading, boosting SEO and load performance by 30%.</li>
+        <li>Integrated PDF.js and EPUB.js for in-browser rendering.</li>
+      </ul>
+      <p>
+        <code>Angular 16+</code> <code>NgRx</code> <code>Nx</code> <code>PrimeNG</code> <code>Tailwind CSS</code> <code>.NET Core</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛍️ CeramicPot — E-Commerce Platform</h3>
+      <p>Production-ready e-commerce and administrative web platform featuring modern server-side data fetching.</p>
+      <ul>
+        <li>Structured Next.js App Router boundaries to drastically cut client bundle sizes.</li>
+        <li>Managed global caching and synchronous data invalidation using RTK Query.</li>
+        <li>Secure route middleware protection and zero-downtime CI/CD workflows.</li>
+      </ul>
+      <p>
+        <code>React</code> <code>Next.js</code> <code>Redux Toolkit</code> <code>RTK Query</code> <code>Tailwind CSS</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 Guardian Health Link — Healthcare Platform</h3>
+      <p>Modular healthcare management solution serving patient, doctor, and hospital admin workflows.</p>
+      <ul>
+        <li>Constructed reactive asynchronous data pipelines using RxJS observables.</li>
+        <li>Implemented role-based access control (RBAC) and dynamic scheduling flows.</li>
+        <li>Decoupled feature libraries using an Nx Monorepo setup.</li>
+      </ul>
+      <p>
+        <code>Angular</code> <code>TypeScript</code> <code>RxJS</code> <code>Nx Monorepo</code> <code>PrimeNG</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 E-Commerce & Creator Hub (Personal)</h3>
+      <p>Full-stack web application featuring end-to-end catalogue management and persistent cart flows.</p>
+      <ul>
+        <li>Complete RESTful API backend handling authentication, products, and checkout.</li>
+        <li>Secure JWT token-based authentication and MongoDB schema modeling.</li>
+        <li>Responsive, dynamic product filtering and search interfaces.</li>
+      </ul>
+      <p>
+        <code>React</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code> <code>REST APIs</code>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-
-### Frontend & Frameworks
-![Angular](https://img.shields.io/badge/Angular%2012--21-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React.js-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=flat-square&logo=ionic&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
-
-### State Management
-![NgRx](https://img.shields.io/badge/NgRx-%23BA2BD2.svg?style=flat-square&logo=reactivex&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-%23B7178C.svg?style=flat-square&logo=reactivex&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-%23764ABC.svg?style=flat-square&logo=redux&logoColor=white)
-![RTK Query](https://img.shields.io/badge/RTK_Query-%23764ABC.svg?style=flat-square&logo=redux&logoColor=white)
-
-### Styling & UI
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![PrimeNG](https://img.shields.io/badge/PrimeNG-%23DD0031.svg?style=flat-square&logo=primeng&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-%23000000.svg?style=flat-square&logo=shadcnui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
-
-### Architecture & Tools
-![Nx Monorepo](https://img.shields.io/badge/Nx_Monorepo-%23143055.svg?style=flat-square&logo=nx&logoColor=white)
-![Microfrontend](https://img.shields.io/badge/Microfrontend-Architecture-blueviolet?style=flat-square)
-![SSR](https://img.shields.io/badge/SSR%2FSSG-Enabled-green?style=flat-square)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=flat-square&logo=github-actions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
+<table>
+  <tr>
+    <td width="20%"><strong>Frontend</strong></td>
+    <td>
+      <code>Angular</code> <code>React.js</code> <code>Next.js</code> <code>TypeScript</code> <code>JavaScript</code> <code>HTML5</code> <code>CSS3</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%"><strong>State & Architecture</strong></td>
+    <td>
+      <code>NgRx</code> <code>RxJS</code> <code>Redux Toolkit</code> <code>RTK Query</code> <code>Nx Microfrontends</code> <code>SSR / SSG</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%"><strong>Backend & Database</strong></td>
+    <td>
+      <code>Node.js</code> <code>Express.js</code> <code>REST APIs</code> <code>MongoDB</code> <code>SQL Server</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%"><strong>UI & Styling</strong></td>
+    <td>
+      <code>Tailwind CSS</code> <code>PrimeNG</code> <code>Bootstrap</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%"><strong>Tools & Platforms</strong></td>
+    <td>
+      <code>Git</code> <code>GitHub</code> <code>Postman</code> <code>Vercel</code> <code>VS Code</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AboobackerSiddiqueMp&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AboobackerSiddiqueMp&layout=compact&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AboobackerSiddiqueMp&show_icons=true&theme=github_dark&hide_border=true" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AboobackerSiddiqueMp&layout=compact&theme=github_dark&hide_border=true" height="155" />
 </p>
-
----
-
-## 🔥 GitHub Streak
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=AboobackerSiddiqueMp&theme=highcontrast&hide_border=true" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=AboobackerSiddiqueMp&theme=github_dark&hide_border=true" />
 </p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AboobackerSiddiqueMp&theme=github-dark&hide_border=true" />
-</p>
-
----
-
-## ⏱️ Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 
 <div align="center">
 
-*Open to exciting opportunities — let's build something great together.*
+*Open to new opportunities — feel free to reach out.*
 
 [![Email](https://img.shields.io/badge/Reach%20Me-aboobackersiddique608@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aboobackersiddique608@gmail.com)
 
